@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Guides
+title: Linux
 nav_order: 2
 has_children: true
 ---
 
-A list of quick setup guides.
+General notes on GNU/Linux.
