@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Assembly
-parent: Linux
-nav_order: 2
+parent: Misc
+nav_order: 3
 ---
 
+# Assembly
 ## Basic Structure
 Basic structure of an assembly (`.s`) program that doesn't crash:
-```armasm
+```x86asm
 .intel_syntax noprefix
 
 mov rax, 60
