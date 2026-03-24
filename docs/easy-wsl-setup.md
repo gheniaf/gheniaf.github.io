@@ -5,7 +5,7 @@ parent: All Notes
 nav_exclude: yes
 ---
 
-# WSL (Windows Subsystem for Linux)
+# Easy WSL (Windows Subsystem for Linux) Setup
 
 ## Prerequisites
 1. Go to Start menu --> search for "Turn Windows features on or off"
