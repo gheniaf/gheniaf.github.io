@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Installing Third-Party Binaries
-parent: Linux
-nav_order: 2
+parent: All Notes
+nav_exclude: true
 ---
 
 # Installing Third-Party Binaries
