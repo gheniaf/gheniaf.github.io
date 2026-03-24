@@ -1,16 +1,16 @@
 ---
 layout: default
-title: WSL
-parent: Setups
-nav_order: 1
+title: Easy WSL Setup
+parent: All Notes
+nav_exclude: yes
 ---
 
-# WSL (Windows Susbystem for Linux)
+# WSL (Windows Subsystem for Linux)
 
 ## Prerequisites
-1. Search for "Turn Windows features on or off" in the Start menu.
-2. Check the boxes for Windows Subsystem for Linux and Virtual Machine Platform.
-3. Click OK and restart your computer.
+1. Go to Start menu --> search for "Turn Windows features on or off"
+2. Check the boxes for Windows Subsystem for Linux and Virtual Machine Platform
+3. Click OK and restart your computer
 
 ## Installation
 Run Windows Command Prompt as administrator (or run `[Win] + X` then `I`).
